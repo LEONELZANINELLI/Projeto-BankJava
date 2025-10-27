@@ -36,7 +36,7 @@ O projeto simula um **banco digital completo**, com contas, transferências, car
 
 ---
 
-## 🧠 Funcionalidades
+## Funcionalidades
 
 | Opção | Descrição                                            |
 | :---- | :--------------------------------------------------- |
@@ -172,7 +172,7 @@ Permitem registrar transações automaticamente com o objeto `MoneyAudit`.
 
 ---
 
-## 🚨 Exceções Personalizadas
+## Exceções Personalizadas
 
 | Exceção                          | Descrição                            |
 | :------------------------------- | :----------------------------------- |
@@ -222,11 +222,11 @@ Durante o desenvolvimento do Nexu Bank, foram reforçados diversos conceitos fun
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Leonel Zaninelli de Souza**
 📚 Desenvolvedor em formação |Backend: Python e Java **Java, POO e sistemas inteligentes**
-💡 Projeto criado para consolidar conceitos de **arquitetura e boas práticas em Java**.
+Projeto criado para consolidar conceitos de **arquitetura e boas práticas em Java**.
 
 ---
 
